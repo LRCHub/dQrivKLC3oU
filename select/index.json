@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幽霊みたい",
+  "base_artist": "佐藤 乃子",
+  "createdAt": "2026-02-08T09:44:35.542133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幽霊みたい (feat. 歌愛ユキ)",
+      "artist": "sato noco",
+      "has_synced": true,
+      "path": "select/01_幽霊みたい_(feat._歌愛ユキ)_sato_noco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幽霊みたい (feat. 歌愛ユキ)",
+      "artist": "佐藤乃子",
+      "has_synced": false,
+      "path": "select/pl_01_幽霊みたい_(feat._歌愛ユキ)_佐藤乃子.txt"
+    }
+  ]
+}
